@@ -1,0 +1,42 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
+label{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    color: rgb(0, 0, 0); 
+    width: 100%;
+    background-color: azure;
+}
